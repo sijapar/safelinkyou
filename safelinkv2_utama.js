@@ -26,7 +26,7 @@ if(x=="2"){xxx="why-real-estate-title-agents-need.html"}
 if(x=="3"){xxx="why-telematics-is-major-disruptor-in.html"}
 if(x=="4"){xxx="devops-automation-for-faster-and.html"}
 if(x=="5"){xxx="telematics-and-big-data-next-generation.html"}
-if(x=="6"){xxx="never-compare-insurance-based-on-price.html"}a_to_ve[i].href="https://safelinkyou.blogspot.com/2017/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="6"){xxx="never-compare-insurance-based-on-price.html"}a_to_ve[i].href="https://beautytricksnew.blogspot.com/2017/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
